@@ -1,0 +1,10 @@
+<h1>My simple Blog</h1>
+<!--{{posts}}이대로 하면 queryset안에 감싸져서 출력되기 때문에 템플릿 언어로 파이썬의 반복문, 조건문, 분기를 쓸 수 있게 가공한다-->
+{% for post in posts%}
+    <a href="{% url 'detail' post.id %}"><h3>제목:{{post.title}} primary key{{post.id}}</h3></a>
+    <h4>작성 날짜:{{post.date}} primary key{{post.id}}</h4>
+
+{% endfor %}
+<a href="{% url 'new' %}">HTML을 이용한 새 글 작성</a></br>
+<a href="{% url 'formcreate'%}">장고 폼 이용 새 글 작성</a></br>
+<a href="{% url 'modelformcreate' %}">모델 폼 이용 새 글 작성</a></br>
