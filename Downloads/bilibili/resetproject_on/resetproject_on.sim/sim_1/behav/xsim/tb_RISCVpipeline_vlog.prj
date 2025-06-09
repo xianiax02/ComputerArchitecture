@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../resetproject_on.srcs/sources_1/new/Control_Unit.v" \
+"../../../../resetproject_on.srcs/sources_1/new/Forwarding_unit.v" \
+"../../../../resetproject_on.srcs/sources_1/new/Hazard_detection_unit.v" \
+"../../../../resetproject_on.srcs/sources_1/new/InDecode.v" \
+"../../../../resetproject_on.srcs/sources_1/new/InFetch.v" \
+"../../../../resetproject_on.srcs/sources_1/new/Memory.v" \
+"../../../../resetproject_on.srcs/sources_1/new/RISCVpipeline.v" \
+"../../../../resetproject_on.srcs/sources_1/new/WB.v" \
+"../../../../resetproject_on.srcs/sources_1/new/execution.v" \
+"../../../../resetproject_on.srcs/sim_1/new/tb_RISCVpipeline12.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
