@@ -1,0 +1,17 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/resetproject_on3/resetproject_on/resetproject_on2.sim/sim_1/behav/xsim/glbl.v,1724786424,verilog,,,,glbl,,,,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sim_1/new/tb_RISCVpipeline12.v,1749707728,verilog,,,,tb_RISCVpipeline,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/Control_Unit.v,1749617672,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/Forwarding_unit.v,,Control_unit,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/Forwarding_unit.v,1749647061,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/Hazard_detection_unit.v,,Forwarding_unit,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/Hazard_detection_unit.v,1749276664,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/InDecode.v,,Hazard_detection_unit,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/InDecode.v,1749644751,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/InFetch.v,,InDecode,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/InFetch.v,1749709834,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/LED_channel.v,,InFetch;PC;iMEM,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/LED_channel.v,1749613815,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/Memory.v,,LED_channel,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/Memory.v,1749705747,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/RISCVpipeline.v,,Memory,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/RISCVpipeline.v,1749710442,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/WB.v,,RISCVpipeline,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/WB.v,1749399546,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/counter.v,,WB,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/counter.v,1749705679,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/execution.v,,counter,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
+D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sources_1/new/execution.v,1749647363,verilog,,D:/resetproject_on3/resetproject_on/resetproject_on2.srcs/sim_1/new/tb_RISCVpipeline12.v,,ALU;ALU_control;Execution,,,../../../../../../2025.1/Vivado/data/rsb/busdef,,,,,
